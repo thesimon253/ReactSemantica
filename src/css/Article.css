@@ -1,0 +1,85 @@
+main{
+    width: 100%;
+    position: relative;
+}
+
+h1{
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: 55px;
+    text-align: center;
+}
+
+#cuerpo{
+    width: 100%;
+    margin-left: 350px;
+}
+
+article{
+    margin-top: 45px;
+}
+
+#artcorea figure img{
+   border-radius: 30px;
+   margin-top: 40px;
+   margin-left:40px;
+}
+
+#arteau figure img{
+   border-radius: 30px;
+   margin-top: 40px;
+margin-left:40px;
+}
+
+#artjapon figure img{
+    border-radius: 30px;
+    margin-top: 40px;
+margin-left:40px;
+}
+
+#arttailandia figure img{
+    border-radius: 30px;
+    margin-top: 40px;
+margin-left:40px;
+}
+
+#artchina figure img{
+    border-radius: 30px;
+    margin-top: 40px;
+margin-left:40px;
+}
+
+#artvietnam figure img{
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left:40px;
+
+}
+
+iframe{
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+figcaption{
+    color: #9c9c9c;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+p{
+    max-width: 600px;
+    margin-top: 20px;
+    margin-left: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+h2{
+    margin-top: 90px;
+}
+
+h3{
+    margin-left: 40px;
+    margin-top: 30px;
+}

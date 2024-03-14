@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Comfortaa", sans-serif;
+}
+
+
+header{
+ width: 100%;
+ position: relative;
+}
+
+header nav{
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    padding: 14px 0;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    list-style: none;
+    margin: 0 10px;
+}
+
+header li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+    transition: .5s;
+}
+
+header li a:hover{
+    border-bottom: 2px solid white;
+    border-top: 2px solid transparent;
+}
+
+header a.logo{
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Comfortaa", sans-serif;
+}
+
+
+header{
+ width: 100%;
+ position: relative;
+}
+
+header nav{
+    width: 100%;
+    background: black;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 14px 0;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    list-style: none;
+    margin: 0 10px;
+}
+
+header li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-bottom: 2px solid transparent;
+    border-top: 2px solid transparent;
+    transition: .5s;
+}
+
+header li a:hover{
+    border-bottom: 2px solid white;
+    border-top: 2px solid transparent;
+}
+
+header a.logo{
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
